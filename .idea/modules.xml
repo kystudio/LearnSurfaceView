@@ -4,6 +4,7 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/LearnSurfaceView.iml" filepath="$PROJECT_DIR$/LearnSurfaceView.iml" />
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/usingsurfaceview/usingsurfaceview.iml" filepath="$PROJECT_DIR$/usingsurfaceview/usingsurfaceview.iml" />
     </modules>
   </component>
 </project>
